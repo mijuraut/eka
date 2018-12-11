@@ -8,6 +8,9 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid>
         <Button Content="Button" HorizontalAlignment="Left" Margin="293,191,0,0" VerticalAlignment="Top" Width="75"/>
+        <TextBox HorizontalAlignment="Left" Height="47" Margin="27,158,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="129"/>
+        <TextBox HorizontalAlignment="Left" Height="47" Margin="27,81,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="129"/>
+        <TextBox HorizontalAlignment="Left" Height="47" Margin="38,262,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="129"/>
 
     </Grid>
 </Window>
